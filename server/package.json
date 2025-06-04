@@ -1,0 +1,26 @@
+{
+  "name": "player-stats-tracker",
+  "version": "1.0.0",
+  "description": "A full-stack web app to log and visualize sports player performance data across games. Built with Node.js, Express, MongoDB, and Chart.js, it features player profiles, game stats entry, and dynamic charts for easy analysis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AubreyL05/player-stats-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AubreyL05/player-stats-tracker/issues"
+  },
+  "homepage": "https://github.com/AubreyL05/player-stats-tracker#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1"
+  }
+}
